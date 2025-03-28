@@ -10,4 +10,4 @@ Description: Let's Decrypt is a powerful decryption tool supporting multiple enc
 Requires: python3
 Changelog: * 0.0.1 Created
 Rni: davidmachek/letsdecrypt
-Dist: letsdecrypt
+Dist: "letsdecrypt"
