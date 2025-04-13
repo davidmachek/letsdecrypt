@@ -1,5 +1,5 @@
 Name: Let's Decrypt
-Version: 0.0.1
+Version: 0.0.2
 Summary: A powerful decryption tool supporting multiple encryption standards
 Home-page: https://rasmnout.tech/letsdecrypt
 Github Repository: https://github.com/davidmachek/letsdecrypt
@@ -8,6 +8,6 @@ Author-email: rasmnout@gmail.com
 License: MIT License
 Description: Let's Decrypt is a powerful decryption tool supporting multiple encryption standards. It allows users to decrypt messages and files using various cryptographic algorithms and efficiently manage decrypted outputs.
 Requires: python3
-Changelog: * 0.0.1 Created
+Changelog: * 0.0.1 Created  |  * 0.0.2 New Decryption, Fixed AES, ChaCha20, Added Detect, Benchmark
 Rni: davidmachek/letsdecrypt
 Dist: "letsdecrypt"
