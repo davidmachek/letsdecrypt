@@ -1,4 +1,4 @@
-# Let's Decrypt
+# Let's Decrypt 0.0.2
 
 Let's Decrypt is a powerful decryption tool supporting multiple encryption standards. It allows users to decrypt messages and files using various cryptographic algorithms and efficiently manage decrypted outputs.
 
